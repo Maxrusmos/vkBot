@@ -1,0 +1,15 @@
+{
+  "name": "vkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-vk-bot-api": "^3.3.4",
+    "vk-io": "^4.0.0-rc.30"
+  }
+}
